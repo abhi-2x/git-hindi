@@ -1,3 +1,4 @@
 i am a fix file wich will be added to a git course used to fix a bugc
 
 fixed another bug 
+one more bug detected and fixed 
