@@ -1,6 +1,7 @@
 i am a fix file wich will be added to a git course used to fix a bugc
 
 fixed another bug 
+<<<<<<< HEAD
 HEAD
 add another marketing section 
 
@@ -13,3 +14,9 @@ bug-fix
 
 add footer note 
 2025 is coming
+=======
+one more bug detected and fixed 
+fourth bug fixed 
+fifth bug fixed 
+2025 footer note added
+>>>>>>> bug-fix
