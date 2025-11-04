@@ -10,3 +10,6 @@ fourth bug fixed
 fifth bug fixed
 
 bug-fix
+
+add footer note 
+2025 is coming
