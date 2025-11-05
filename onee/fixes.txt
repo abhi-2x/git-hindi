@@ -11,3 +11,6 @@ fifth bug fixed
 
 
 2025 is coming
+pinkmode : fix one more bug     ..
+
+another fixed msg for pinkmode
